@@ -3,7 +3,7 @@
 ## Quién soy
 
 - Usuario de GitHub: butronand-png
-- Usuario de DataCamp: TU_USUARIO_DE_DATACAMP
+- Usuario de DataCamp: sin usuario visible en DataCamp, cuenta del grupo ITAM
 
 ## Introduction to Python for Developers
 
